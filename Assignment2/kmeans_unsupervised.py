@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Nov 22 17:39:03 2020
-
-@author: devil
-"""
+# Importing required libraries
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd 
